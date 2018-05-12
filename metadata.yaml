@@ -7,7 +7,7 @@ contributor:
     - Bridgman, Lewis Jesse
     - Bridgeman, Lewis Jesse
     birthdate: 1857
-    deathdate: &id001 1931
+    deathdate: 1931
     gutenberg_agent_id: '8122'
     url: http://www.gutenberg.org/2009/agents/8122
 covers:
@@ -20,12 +20,14 @@ creator:
     - Johnston, Annie Fellows
     - Fellows, Annie
     birthdate: 1863
-    deathdate: *id001
+    deathdate: 1931
     gutenberg_agent_id: '3050'
     url: http://www.gutenberg.org/2009/agents/3050
     wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
 description: Joel, a young boy living in Galilee, is witness to the miracles, the
   death, and the resurrection of Jesus.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39231#Joel--A-Boy-of-Galilee
 gutenberg_issued: '2012-03-23'
 gutenberg_type: Text
 identifiers:
