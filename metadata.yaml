@@ -1,0 +1,49 @@
+_repo: Joel--A-Boy-of-Galilee_39231
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bridgman, L. J. (Lewis Jesse)
+    aliases:
+    - Bridgman, Lewis Jesse
+    - Bridgeman, Lewis Jesse
+    birthdate: 1857
+    deathdate: &id001 1931
+    gutenberg_agent_id: '8122'
+    url: http://www.gutenberg.org/2009/agents/8122
+covers:
+- cover_type: archival
+  image_path: 39231-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnston, Annie F. (Annie Fellows)
+    aliases:
+    - Johnston, Annie Fellows
+    - Fellows, Annie
+    birthdate: 1863
+    deathdate: *id001
+    gutenberg_agent_id: '3050'
+    url: http://www.gutenberg.org/2009/agents/3050
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Fellows_Johnston
+description: Joel, a young boy living in Galilee, is witness to the miracles, the
+  death, and the resurrection of Jesus.
+gutenberg_issued: '2012-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39231'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Galilee (Israel) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conversion -- Juvenile fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Preaching -- Juvenile fiction'
+- !lcsh 'Children -- Conversion to Christianity -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Martyrs -- Juvenile fiction'
+- !lcsh 'Jesus Christ -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: 'Joel: A Boy of Galilee'
+url: http://www.gutenberg.org/ebooks/39231
